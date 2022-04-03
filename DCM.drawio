@@ -1,17 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2022-04-03T10:38:47.526Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="Z2qGxFwhzCTXoOo9UV-b" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-03T10:39:09.326Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="p7bemRdPX_Os_9GWlv8G" version="17.1.2" type="github">
   <diagram id="z_Y4F_SR7PcxuOku2sR0" name="Page-1">
     <mxGraphModel dx="2062" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="zTqm8sCnRQ4MfHMiTbh4-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4N40d74wTq-aytycNkCm-1" target="4N40d74wTq-aytycNkCm-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4N40d74wTq-aytycNkCm-1" value="Ⅰ型糖尿病患者以及年龄匹配的Ⅱ型糖尿病和特殊类型（MODY，MDM）的糖尿病患者" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="305" y="70" width="200" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="4N40d74wTq-aytycNkCm-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="405" y="290" as="targetPoint" />
-            <mxPoint x="405" y="110" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="4N40d74wTq-aytycNkCm-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="4N40d74wTq-aytycNkCm-5" target="4N40d74wTq-aytycNkCm-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
