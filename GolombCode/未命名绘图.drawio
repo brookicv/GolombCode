@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-14T14:50:37.444Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="hJs9sjlOEi-XVa-XIu8A" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-16T12:44:22.235Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="hjoRxDa3IC5Qa__UejGW" version="17.4.6" type="github">
   <diagram name="Page-1" id="fbcf5db9-b524-4cd4-e4f3-379dc89c3999">
-    <mxGraphModel dx="782" dy="1121" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2062" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,31 +8,31 @@
           <mxGeometry x="360" y="70" width="10" height="950" as="geometry" />
         </mxCell>
         <mxCell id="2a0f93b5c73ef8e7-2" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#F2931E;fontSize=13;fontColor=#FFFFFF;align=right;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="140" y="90" width="220" height="85" as="geometry" />
+          <mxGeometry x="190" y="90" width="170" height="85" as="geometry" />
         </mxCell>
         <mxCell id="2a0f93b5c73ef8e7-4" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#10739E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="470" width="220" height="85" as="geometry" />
         </mxCell>
         <mxCell id="2a0f93b5c73ef8e7-6" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#F2931E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="140" y="210" width="220" height="85" as="geometry" />
+          <mxGeometry x="190" y="210" width="170" height="85" as="geometry" />
         </mxCell>
         <mxCell id="2a0f93b5c73ef8e7-8" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#10739E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="340" width="220" height="85" as="geometry" />
         </mxCell>
         <mxCell id="2a0f93b5c73ef8e7-10" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#F2931E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="140" y="340" width="220" height="85" as="geometry" />
+          <mxGeometry x="190" y="340" width="170" height="85" as="geometry" />
         </mxCell>
         <mxCell id="2a0f93b5c73ef8e7-12" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#10739E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="940" y="267.5" width="220" height="85" as="geometry" />
         </mxCell>
         <mxCell id="2a0f93b5c73ef8e7-14" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#F2931E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="140" y="470" width="220" height="85" as="geometry" />
+          <mxGeometry x="190" y="470" width="170" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="2a0f93b5c73ef8e7-16" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#10739E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" parent="1" vertex="1">
+        <mxCell id="2a0f93b5c73ef8e7-16" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#9999FF;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="710" y="390" width="220" height="85" as="geometry" />
         </mxCell>
         <mxCell id="kBatp0XoefobiH6z3GA5-1" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#F2931E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="660" width="220" height="85" as="geometry" />
+          <mxGeometry x="190" y="660" width="170" height="85" as="geometry" />
         </mxCell>
         <mxCell id="kBatp0XoefobiH6z3GA5-3" value="" style="line;strokeWidth=10;direction=south;html=1;fillColor=none;fontSize=13;fontColor=#000000;align=center;strokeColor=#FFCC99;" vertex="1" parent="1">
           <mxGeometry x="930" y="80" width="10" height="560" as="geometry" />
@@ -55,11 +55,8 @@
         <mxCell id="kBatp0XoefobiH6z3GA5-10" value="2019-03-18" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="250" y="670" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kBatp0XoefobiH6z3GA5-11" value="腰椎穿刺 + 鞘内注射" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="420" y="367.5" width="140" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="kBatp0XoefobiH6z3GA5-12" value="腰椎穿刺 + 鞘内注射" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="420" y="491.5" width="140" height="42" as="geometry" />
+        <mxCell id="kBatp0XoefobiH6z3GA5-11" value="腰椎穿刺 + 鞘内注射(&lt;span style=&quot;font-size: 12.0pt&quot;&gt;地塞米松&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;5mg+&lt;/span&gt;&lt;span style=&quot;font-size: 12.0pt&quot;&gt;甲氨蝶呤&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;10mg+&lt;/span&gt;&lt;span style=&quot;font-size: 12.0pt&quot;&gt;阿糖胞苷&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;30mg)&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="381" y="350" width="200" height="62.5" as="geometry" />
         </mxCell>
         <mxCell id="kBatp0XoefobiH6z3GA5-13" value="2019-05-08" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="820" y="100" width="100" height="30" as="geometry" />
@@ -85,7 +82,7 @@
         <mxCell id="kBatp0XoefobiH6z3GA5-20" value="2019-09-06" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="810" y="395" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kBatp0XoefobiH6z3GA5-21" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#10739E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" vertex="1" parent="1">
+        <mxCell id="kBatp0XoefobiH6z3GA5-21" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#9999FF;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="520" width="220" height="85" as="geometry" />
         </mxCell>
         <mxCell id="kBatp0XoefobiH6z3GA5-22" value="2019-09-08" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontColor=#FFFFFF;" vertex="1" parent="1">
@@ -93,15 +90,6 @@
         </mxCell>
         <mxCell id="kBatp0XoefobiH6z3GA5-23" value="血小板植活" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="790" y="557.5" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="kBatp0XoefobiH6z3GA5-28" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#7EA6E0;strokeColor=#36393d;shadow=1;sketch=0;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="370" y="590" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="kBatp0XoefobiH6z3GA5-29" value="2019-02" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="370" y="590" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="kBatp0XoefobiH6z3GA5-30" value="第一次PET-CT复查" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;sketch=0;fontSize=18;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="370" y="620" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kBatp0XoefobiH6z3GA5-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;fontColor=#FFFFFF;" edge="1" parent="1" source="kBatp0XoefobiH6z3GA5-32" target="kBatp0XoefobiH6z3GA5-3">
           <mxGeometry relative="1" as="geometry">
@@ -153,6 +141,24 @@
         </mxCell>
         <mxCell id="kBatp0XoefobiH6z3GA5-54" value="R-CHOP化疗" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;sketch=0;fontSize=18;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="240" y="710" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kBatp0XoefobiH6z3GA5-57" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="440" y="650" width="200" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="kBatp0XoefobiH6z3GA5-56" value="2019-02" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=#FFFFFF;" vertex="1" parent="kBatp0XoefobiH6z3GA5-57">
+          <mxGeometry width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kBatp0XoefobiH6z3GA5-28" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#7EA6E0;strokeColor=#36393d;shadow=1;sketch=0;glass=0;" vertex="1" parent="kBatp0XoefobiH6z3GA5-57">
+          <mxGeometry x="-70" y="-52.5" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kBatp0XoefobiH6z3GA5-30" value="第一次PET-CT复查" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;sketch=0;fontSize=18;fontColor=#FFFFFF;" vertex="1" parent="kBatp0XoefobiH6z3GA5-57">
+          <mxGeometry x="-60" y="-10" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kBatp0XoefobiH6z3GA5-29" value="2019-02" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=#FFFFFF;" vertex="1" parent="kBatp0XoefobiH6z3GA5-57">
+          <mxGeometry x="-70" y="-40" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kBatp0XoefobiH6z3GA5-58" value="腰椎穿刺 + 鞘内注射(&lt;span style=&quot;font-size: 12.0pt&quot;&gt;地塞米松&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;5mg+&lt;/span&gt;&lt;span style=&quot;font-size: 12.0pt&quot;&gt;甲氨蝶呤&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;10mg+&lt;/span&gt;&lt;span style=&quot;font-size: 12.0pt&quot;&gt;阿糖胞苷&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;30mg)&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="375" y="481.25" width="200" height="62.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
